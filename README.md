@@ -1,7 +1,7 @@
 # Result Analysis of Sem 5 NSUT IT Branch
 
 Note: I have not provided the dataset for privacy reasons. However I can share the structure of the dataset after cleaning and proper aligning.
-![]
+![Structure of dataset](https://github.com/Sushant-Mittal/result-analysis/blob/main/result_analysis_plots/structure.jpeg)
 
 ## Steps undertaken to perform this analysis
 **Step 1** : Cleaning and aligning the data well. Results are published in pdf format, so first step involved converting to excel file, properly aligning the columns and then exporting as a csv file
