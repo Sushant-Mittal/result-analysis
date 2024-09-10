@@ -26,7 +26,7 @@ Note: I have not provided the dataset for privacy reasons. However I can share t
 **Step 5** : Finally I was able to generate a ranklist of all students of the IT department on the basis of overall SGPA.
 
 
-## Some informational plots
+## Some informational plots (many others present in the `result_analysis_plots` folder)
 ![SGPA Histogram](https://github.com/Sushant-Mittal/result-analysis/blob/main/result_analysis_plots/sgpa_histogram.png)
 ![Subject wise GPA comparision](https://github.com/Sushant-Mittal/result-analysis/blob/main/result_analysis_plots/subj_wise_gpa.png)
 ![Student count per subject](https://github.com/Sushant-Mittal/result-analysis/blob/main/result_analysis_plots/student_count_per_subj.png)
