@@ -3,6 +3,16 @@
 Note: I have not provided the dataset for privacy reasons. However I can share the structure of the dataset after cleaning and proper aligning.
 ![Structure of dataset](https://github.com/Sushant-Mittal/result-analysis/blob/main/result_analysis_plots/structure.jpeg)
 
+### Key
+1. Subj1 ... Subj7 : Subject codes of 7 subjects offered
+2. GR1 ... GR7 : Grades awarded for subjects respectively
+3. GP1 ... GP7 : GPA awarded for subjects respectively
+4. CRP1 ... CRP7 : Credit Points awarded for subjects respectively
+5. TOT CR : Total credits scored by the student
+6. TOT CRL : Total credit points scored by the student
+7. SGPA : Semester GPA (weighted average of all GPi's)
+8. CS : Credits secured
+
 ## Steps undertaken to perform this analysis
 **Step 1** : Cleaning and aligning the data well. Results are published in pdf format, so first step involved converting to excel file, properly aligning the columns and then exporting as a csv file
 
